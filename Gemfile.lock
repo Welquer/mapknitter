@@ -76,7 +76,7 @@ GEM
     mini_portile2 (2.4.0)
     multi_json (1.13.1)
     multi_xml (0.6.0)
-    mysql2 (0.3.21)
+    mysql2 (0.5.2)
     nokogiri (1.10.3)
       mini_portile2 (~> 2.4.0)
     oa-core (0.3.2)
@@ -190,7 +190,7 @@ DEPENDENCIES
   httparty
   image_science (= 1.2.6)
   jshintrb
-  mysql2 (< 0.4)
+  mysql2 (< 0.6)
   oa-openid (= 0.3.2)
   open_id_authentication
   paperclip (~> 4.3.7)
